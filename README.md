@@ -14,7 +14,7 @@
 -->
 ## 🧑‍💻 散修·程序员 · 道号：码道人
 
-吾乃一介散修，主修人间代码大道，历经劫数，欲图飞升。
+一介散修，主修人间代码大道，历经数劫，欲图飞升。
 
 ### 🧪 修为境界
 ![Python 金丹期](https://img.shields.io/badge/Python-金丹期-4A5B3E?style=for-the-badge&logo=python&logoColor=ffd966&labelColor=2F4F4F)
@@ -26,4 +26,3 @@
 
 ### 🌱 近日感悟
 > 昨夜调Bug至三更，忽闻窗外雷声大作，吾掐指一算，恐是服务器又渡劫矣。
-![Profile Views](https://komarev.com/ghpvc/?username=Kang-bing&color=blue&style=flat-square)
