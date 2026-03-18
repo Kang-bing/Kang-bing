@@ -1,5 +1,3 @@
-##你好 👋
-
 <!--
 **Kang-bing/Kang-bing**是an-0_special_ ✨ 存储库，因为它的“README.md”(此文件)出现在GitHub配置文件中。
 
