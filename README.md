@@ -12,12 +12,12 @@
 - 😄 代词：...
 - ⚡ 有趣的事实：...
 -->
-## 🧑‍💻 散修·程序员 · 道号：码道人
+## 🧑‍💻 散修·程序员   道号：码道人
 
 一介散修，主修人间代码大道，历经数劫，欲图飞升。
 
 ### 🧪 修为境界
-![Python 金丹期](https://img.shields.io/badge/Python-金丹期-4A5B3E?style=for-the-badge&logo=python&logoColor=ffd966&labelColor=2F4F4F)<br>
+![Python 金丹期](https://img.shields.io/badge/Python-金丹期-4A5B3E?style=for-the-badge)<br>
 ![Java 筑基期](https://img.shields.io/badge/Java-筑基期-B87333?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=6B4423)
 
 ### 🛠️ 本命法器
