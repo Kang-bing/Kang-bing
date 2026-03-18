@@ -26,3 +26,4 @@
 
 ### 🌱 近日感悟
 > 昨夜调Bug至三更，忽闻窗外雷声大作，吾掐指一算，恐是服务器又渡劫矣。
+![Profile Views](https://komarev.com/ghpvc/?username=你的用户名&color=blue&style=flat-square)
